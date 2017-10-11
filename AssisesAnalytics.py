@@ -31,7 +31,8 @@ for category in site:
 		page
 		for contribution in page.xpath('//div[@class="user-contribution block-content"]'):
 			contributionCounter += 1
-
+			plusNumber = contribution.xpath('.//div[@class="float-left like-count-entity-node"]')[0].text
+			minusNumber = contribution.xpath('.//div[@class="float-left dislike-count-entity-node"]')[0].text
 		
 print ""		
 print 'Total contributions:', contributionCounter
