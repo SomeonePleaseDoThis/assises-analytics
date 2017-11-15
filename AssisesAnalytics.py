@@ -22,11 +22,11 @@ selfSubcategory = False
 # Get self contribution score
 subcategory = site.xpath('//subcategory[@self="true"]')[0]
 url = subcategory.get('url')
+selfurl = subcategory.get('selfurl')
 id = subcategory.get('self-contrib-id')
 
-page = html.fromstring(urllib2.urlopen(subcategory.get("url")).read())
-contribution = page.xpath('//div[@class = "user-contribution block-content" and @data-contrib = "' + id + '"]')[0]
-plusNumber = int(contribution.xpath('.//div[@class="float-left like-count-entity-node"]')[0].text)
+page = html.fromstring(urllib2.urlopen(selfurl).read())
+plusNumber = int(page.xpath('//div[@class = "float-left like-count-entity-node"]')[0].text)
 #minusNumber = contribution.xpath('.//div[@class="float-left dislike-count-entity-node"]')[0].text
 
 selfScore = plusNumber
