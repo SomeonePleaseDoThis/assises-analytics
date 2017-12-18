@@ -1,39 +1,39 @@
 ﻿<site>
 	<category label="Mobilités plus propres">
-		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-propres-reduire-notre-empreinte-environnementale/comment-accelerer-la"/>
-		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-propres-reduire-notre-empreinte-environnementale/comment-letat-ou-les"/>
-		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-propres-reduire-notre-empreinte-environnementale/comment-peut-faciliter-le"/>
-		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-propres-reduire-lempreinte-environnementale-de-nos-deplacements/quavez"/>
+		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-propres-reduire-notre-empreinte-environnementale/comment-accelerer-la" name="Comment accélérer la transition vers des véhicules propres (véhicules électriques par exemple) ?"/>
+		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-propres-reduire-notre-empreinte-environnementale/comment-letat-ou-les" name="Comment l'Etat ou les collectivités locales peuvent-ils encourager toutes les formes de déplacements doux ?"/>
+		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-propres-reduire-notre-empreinte-environnementale/comment-peut-faciliter-le" name="Comment peut-on faciliter le développement du covoiturage dans les déplacements du quotidien ?"/>
+		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-propres-reduire-lempreinte-environnementale-de-nos-deplacements/quavez" name="Qu'avez-vous à proposer sur ce thème ?"/>
 	</category>
 	<category label="Mobilités plus connectées" self="true">	
-		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-connectees-accelerer-linnovation-et-la-revolution-numerique/comment-le"/>
-		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-connectees-accelerer-linnovation-et-la-revolution-numerique/de-quelles" selfurl="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-connectees-accelerer-linnovation-et-la-revolution-numerique/de-quelles-13" self="true" self-contrib-id="3074"/>
-		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-connectees-accelerer-linnovation-et-la-revolution-numerique/comment-rendre"/>
-		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-connectees-accelerer-linnovation-et-la-revolution-numerique/quavez-vous"/>
+		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-connectees-accelerer-linnovation-et-la-revolution-numerique/comment-le" name="Comment le numérique va-t-il redéfinir les conditions de la mobilité ?"/>
+		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-connectees-accelerer-linnovation-et-la-revolution-numerique/de-quelles"  name="De quelles innovations l'Etat ou les collectivités locales pourraient-elles s'emparer pour améliorer la mobilité ?" selfurl="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-connectees-accelerer-linnovation-et-la-revolution-numerique/de-quelles-13" self="true" self-contrib-id="3074"/>
+		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-connectees-accelerer-linnovation-et-la-revolution-numerique/comment-rendre" name="Comment rendre l'arrivée du véhicule autonome bénéfique pour notre mobilité et nos territoires ?"/>
+		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-connectees-accelerer-linnovation-et-la-revolution-numerique/quavez-vous" name="Qu'avez-vous à proposer sur ce thème ?"/>
 	</category>
 	<category label="Mobilités plus solidaires">
-		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-solidaires-reduire-les-fractures-sociales-et-territoriales/comment"/>
-		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-solidaires-reduire-les-fractures-sociales-et-territoriales/comment-0"/>
-		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-solidaires-reduire-les-fractures-sociales-et-territoriales/comment-1"/>
-		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-solidaires-reduire-les-fractures-sociales-et-territoriales/quavez-vous"/>
+		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-solidaires-reduire-les-fractures-sociales-et-territoriales/comment" name="Comment améliorer les déplacements dans les zones rurales et périurbaines ?"/>
+		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-solidaires-reduire-les-fractures-sociales-et-territoriales/comment-0" name="Comment faciliter les déplacements des personnes fragiles ?"/>
+		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-solidaires-reduire-les-fractures-sociales-et-territoriales/comment-1" name="Comment garantir à chacun la possibilité de se déplacer pour accéder à l'emploi, à la formation, à la santé, à la culture ?"/>
+		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-solidaires-reduire-les-fractures-sociales-et-territoriales/quavez-vous" name="Qu'avez-vous à proposer sur ce thème ?"/>
 	</category>
 	<category label="Mobilités plus intermodales">
-		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-intermodales-mieux-articuler-toutes-les-offres-de-transport/quelles"/>
-		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-intermodales-mieux-articuler-toutes-les-offres-de-transport/comment"/>
-		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-intermodales-mieux-articuler-toutes-les-offres-de-transport/comment-0"/>
-		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-intermodales-mieux-articuler-toutes-les-offres-de-transport/quavez-vous"/>
+		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-intermodales-mieux-articuler-toutes-les-offres-de-transport/quelles" name="Quelles mesures pourraient faciliter l'utilisation de plusieurs modes de transports dans un même trajet ?"/>
+		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-intermodales-mieux-articuler-toutes-les-offres-de-transport/comment" name="Comment encourager les voyageurs à se passer de leur voiture individuelle ?"/>
+		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-intermodales-mieux-articuler-toutes-les-offres-de-transport/comment-0" name="Comment améliorer la logistique urbaine sans encombrer l'espace public ?"/>
+		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-intermodales-mieux-articuler-toutes-les-offres-de-transport/quavez-vous" name="Qu'avez-vous à proposer sur ce thème ?"/>
 	</category>
 	<category label="Mobilités plus sûres">
-		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-sures-reduire-les-accidents-et-les-risques/comment-reduire-les-accidents"/>
-		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-sures-reduire-les-accidents-et-les-risques/comment-adapter-le-code-de-la"/>
-		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-sures-reduire-les-accidents-et-les-risques/comment-ameliorer-la-surete-et"/>
-		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-sures-reduire-les-accidents-et-les-risques/quavez-vous-proposer-sur-ce"/>
+		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-sures-reduire-les-accidents-et-les-risques/comment-reduire-les-accidents" name="Comment réduire les accidents dans les transports ?"/>
+		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-sures-reduire-les-accidents-et-les-risques/comment-adapter-le-code-de-la" name="Comment adapter le code de la route aux nouveaux modes de déplacements (véhicule autonome, vélo, ...) ?"/>
+		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-sures-reduire-les-accidents-et-les-risques/comment-ameliorer-la-surete-et" name="Comment améliorer la sûreté et réduire les menaces dans les transports ?"/>
+		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-sures-reduire-les-accidents-et-les-risques/quavez-vous-proposer-sur-ce" name="Qu'avez-vous à proposer sur ce thème ?"/>
 	</category>
 	<category label="Mobilités plus soutenables">
-		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-soutenables-repenser-les-modeles-economiques-et-la-gouvernance/faut-il"/>
-		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-soutenables-revoir-les-modeles-economiques-et-la-gouvernance/comment"/>
-		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-soutenables-revoir-les-modeles-economiques-et-la-gouvernance/de-quelle"/>
-		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-soutenables-revoir-les-modeles-economiques-et-la-gouvernance/comment-mieux"/>
-		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-soutenables-revoir-les-modeles-economiques-et-la-gouvernance/quavez-vous"/>
+		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-soutenables-repenser-les-modeles-economiques-et-la-gouvernance/faut-il" name="Faut-il faire évoluer la répartition entre les parts payées par le contribuable et l'usager dans le coût des transports ?"/>
+		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-soutenables-revoir-les-modeles-economiques-et-la-gouvernance/comment" name="Comment trouver de nouvelles ressources pour investir dans les transports ?"/>
+		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-soutenables-revoir-les-modeles-economiques-et-la-gouvernance/de-quelle" name="De quelle manière les règles d'urbanisme pourraient-elles contribuer à une meilleure mobilité ?"/>
+		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-soutenables-revoir-les-modeles-economiques-et-la-gouvernance/comment-mieux" name="Comment mieux articuler les offres proposées par les différentes autorités organisatrices de transports ?"/>
+		<subcategory url="https://www.assisesdelamobilite.gouv.fr/participer/mobilites-plus-soutenables-revoir-les-modeles-economiques-et-la-gouvernance/quavez-vous" name="Qu'avez-vous à proposer sur ce thème ?"/>
 	</category>
 </site>
